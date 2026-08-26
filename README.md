@@ -2,6 +2,9 @@
 
 A from-scratch personal portfolio built with plain HTML, CSS and JavaScript (no build step required).
 
+## View my portfolio
+[View here](https://tarunsonaji.github.io/Portfolio/)
+
 ## Run it
 
 Just open `index.html` in a browser, or serve the folder locally:
